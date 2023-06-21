@@ -6,7 +6,6 @@ You can find the demo here: https://sombr.pointy.dev/
 
 ```
 .
-├── cloudbuild.yaml
 ├── isom_app
 │   ├── constants.py
 │   ├── internal
