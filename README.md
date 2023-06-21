@@ -1,7 +1,8 @@
 # Using Self-Organizing Maps to Triage Software Bug Reports
 
+You can find the demo here: https://sombr.pointy.dev/
 
-## ISOM4BR: Interactive Self-Organizing Maps for Bug Report Triage
+## SOMBR: Interactive Self-Organizing Maps for Bug Report Triage
 
 ```
 .
