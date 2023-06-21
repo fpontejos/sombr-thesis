@@ -8,24 +8,19 @@ You can find the demo here: https://sombr.pointy.dev/
 .
 ├── isom_app
 │   ├── constants.py
+│   ├── main.py
 │   ├── internal
 │   │   ├── data
 │   │   │   ├── _processed
-│   │   │   │   ├── spark-bugreports.csv
 │   │   │   │   └── vec_df.csv
-│   │   │   ├── embeddings
-│   │   │   │   └── embeddings01.csv
 │   │   │   ├── in
 │   │   │   │   └── spark.sqlite3
 │   │   │   └── out
 │   │   └── models
 │   │       ├── all-MiniLM-L6-v2
-│   │       │   └── ...
 │   │       ├── nltk_data
-│   │       │   └── punkt
 │   │       └── som
 │   │           └── som.p
-│   ├── main.py
 │   ├── modules
 │   │   ├── __init__.py
 │   │   ├── organize.py
