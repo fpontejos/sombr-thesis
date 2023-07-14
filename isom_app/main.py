@@ -9,14 +9,6 @@ nltk.data.path.append("./internal/models/nltk_data/")
 ### Internal module imports
 ########################################
 
-
-# from modules.plot_components.js_callbacks import *
-# from modules.plot_components.cells.details import *
-# from modules.plot_components.cells.inputs import *
-# from modules.plot_components.cells.hexagons import *
-# from modules.plot_components.cells.colorbar import *
-# from modules.plot_components.tabs.graph import *
-
 from constants import *
 from modules.setup import *
 from modules.organize import *
