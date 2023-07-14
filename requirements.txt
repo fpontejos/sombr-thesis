@@ -1,0 +1,18 @@
+scikit-learn
+scikit-image
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+flask
+bokeh==3.0.3
+minisom==2.3.0
+# install a specific commit to use topographic error function not present in 2.3.0
+#git+https://github.com/JustGlowing/minisom/@c12cbdd#egg=minisom
+torch 
+torchvision
+gensim
+sentence-transformers
+nltk
+pygraphviz
