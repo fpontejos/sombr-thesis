@@ -4,7 +4,9 @@ You can find the demo here: https://sombr.pointy.dev/
 
 ## SOMBR: Interactive Self-Organizing Maps for Bug Report Triage
 
-This repository contains the code used to develop my Master Thesis. It does not include the source data files (which can be retrieved from [Rath and Mäder, 2019](https://www.sciencedirect.com/science/article/pii/S2352340919303580)) nor the processed output files.
+This repository contains the code used to develop my Master Thesis. The document can be accessed [here](http://hdl.handle.net/10362/160225).
+
+It does not include the source data files (which can be retrieved from [Rath and Mäder, 2019](https://www.sciencedirect.com/science/article/pii/S2352340919303580)) nor the processed output files.
 
 For questions you can get in touch [here](https://pointy.dev/).
 
